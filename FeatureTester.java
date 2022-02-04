@@ -4,6 +4,6 @@ import org.junit.*;
 public class FeatureTester {
     @Test
     public void testDoMath() {
-        assertEquals(4, Feature.doMath(1));
+        assertEquals(4, Feature.doMath(2));
     }
 }
